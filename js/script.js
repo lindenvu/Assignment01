@@ -97,29 +97,40 @@ var course = window.prompt("Enter the course you are taking:");
 window.alert("Hello " + name + ".\nWelcome to the " + course + " class!");*/
 
 // STEP 17
-
+/*var x = 10;
+var y = 20;
+window.console.log(x+y);*/
 
 // STEP 18
-
+/*var x = 20;
+x += 20;
+window.console.log(x);*/
 
 // STEP 19
-
+/*var x = 20;
+x *= 5;
+window.console.log(x);*/
 
 // STEP 20
-
+/*var x = 20 % 3;
+x /= 1;
+window.console.log(x);*/
 
 // STEP 21
-
+/*window.console.log("Vu" > "Ruvalcaba" && true);*/
 
 // STEP 22
-
+/*window.console.log(!("Linden" < "Zak"));*/
 
 // STEP 23
-
+/*var widget = new Object();
+window.console.log(typeof(widget));*/
 
 // STEP 24
-
+/*var widget = new Object();
+window.console.log(widget instanceof Object);*/
 
 // STEP 25
-
+/*var widget = new Object();
+window.console.log(widget instanceof String);*/
 
